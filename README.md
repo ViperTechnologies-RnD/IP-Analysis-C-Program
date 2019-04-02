@@ -1,3 +1,4 @@
+## MIDDLE EAST TECHNICAL UNIVERSITY
 **Date handed out: 05 March, Monday 2019**
 
 # Programming Assignment 1: IP Address Analyzer
@@ -55,8 +56,6 @@ Please Note the following for this step:
 - Make sure that your program displays an error message for the following cases:
     o When the user enters invalid base (other than base 10 and base 16)
     o When the users enter an invalid IP address or subnet mask
-
-## MIDDLE EAST TECHNICAL UNIVERSITY, NORTHERN CYPRUS CAMPUS
 
 ```
 CNG 140 C Programming – Programming Assignment 1
