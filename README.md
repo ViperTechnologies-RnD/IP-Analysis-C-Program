@@ -1,4 +1,4 @@
-## MIDDLE EAST TECHNICAL UNIVERSITY
+## IP Analysis
 **Date handed out: 05 March, Monday 2019**
 
 # Programming Assignment 1: IP Address Analyzer
